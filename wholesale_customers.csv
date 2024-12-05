@@ -1,0 +1,101 @@
+customer_id,company_id,name,business_type,credit_limit,location
+6014,220,Ryan Ramirez,Distribution,48467.87,Virginiaville
+6563,593,Lisa Mccormick,Distribution,43684.03,Palmermouth
+6392,593,Denise Smith,Retail,38196.82,Lake Robert
+3786,314,Noah Keller,Distribution,25373.43,North Paulview
+2968,593,Krystal Hall,Distribution,35312.79,Lake Marie
+3967,593,Eric Murphy,Distribution,21293.04,Mitchellburgh
+3124,314,Kristen Murphy,Retail,10105.04,South Eric
+3448,571,Angela Hubbard,Distribution,6270.9,East Jessica
+8686,593,James Franklin,Retail,49110.23,Lesterville
+7046,551,Kelsey Howard,Distribution,47554.17,Alexanderbury
+6550,571,Mary Simpson,Distribution,34538.39,Janetland
+4123,593,James Lee,Distribution,37702.46,Patrickton
+3709,571,Nicholas Nixon,Distribution,43830.06,Barnettbury
+4130,593,Christopher Smith,Retail,7755.75,West Andrew
+7143,220,David Smith,Distribution,24493.78,Port Bryanchester
+3112,551,Cindy Graham,Distribution,44984.66,Gregorymouth
+7964,220,Dr. Janet Ortiz,Distribution,9415.67,Maloneshire
+9548,593,Troy Jackson,Retail,21217.19,North Mark
+8882,593,Casey Bautista,Retail,31062.47,Lake Christian
+9599,593,Ashley Fuller,Retail,31231.48,West Matthewfurt
+2223,314,Stacy Crawford,Distribution,25215.73,Emilymouth
+3934,571,Carla Mullins,Distribution,32855.7,Lindafurt
+2121,220,Steven Pierce,Retail,21544.11,Sarahton
+5734,220,Bryan Reed,Retail,15519.95,West Jodyton
+4080,571,Lauren Parsons,Distribution,44933.61,Port Allison
+4787,220,Ruben King,Retail,21641.83,Lindabury
+6801,314,Kim Hutchinson,Retail,22889.85,West Meghan
+8718,551,Robert Cunningham,Distribution,19318.05,Kellyport
+4646,314,Jamie Jordan Jr.,Retail,15454.7,South Davidtown
+9770,551,Susan Beck,Distribution,15352.52,North Ana
+5472,571,Ronald Moreno,Retail,10323.85,New Daniel
+6128,593,Kimberly Cruz,Distribution,43712.53,Larrytown
+5511,314,Sally Ramirez,Distribution,26852.97,Veronicaborough
+7780,220,Rebecca Kirk,Retail,32942.47,Wardton
+6600,551,Mallory Lindsey,Retail,24283.04,West Allisonburgh
+7572,571,Henry Graves,Retail,28082.68,New Patricia
+4248,593,Peter Fisher,Distribution,16441.45,Lake Jennifer
+9075,593,Renee Bush,Retail,46783.53,South Sandra
+9602,551,James Nelson,Distribution,49307.89,Chelsealand
+4515,314,Adam King,Distribution,6182.12,Grahamfurt
+7710,571,Amanda Marshall,Retail,30278.22,Marktown
+5261,551,Joseph Williams,Distribution,32480.41,Adamborough
+7876,314,Joshua Williams,Retail,47033.43,Philipberg
+8264,551,Jennifer Thomas,Retail,17618.51,Delacruzhaven
+2490,551,Steven Lozano,Retail,29829.31,Port Angelafurt
+9779,551,Robert Hess,Retail,6927.88,Port Joseph
+8555,551,Michael King,Distribution,17095.67,Lutzberg
+8198,593,Kristen Johnson,Retail,49737.66,Port Leslieland
+3580,314,Joyce Allen,Distribution,20589.79,Lake Matthew
+7367,551,Raymond Brown,Retail,23366.05,Aaronland
+2851,220,Harold Hayes,Distribution,26571.19,Vanessaville
+3115,571,Alexander Gross,Retail,46440.43,Normaborough
+2361,314,Antonio Collins,Distribution,26647.5,New Katrinaburgh
+4931,593,Tammy Russell,Distribution,45480.11,Cassandraview
+7507,551,Samuel Chavez,Retail,21434.62,South Leahborough
+9776,571,Hunter Martinez,Distribution,36677.83,East Richardtown
+4644,314,Julian Savage,Distribution,22671.37,Millerton
+6387,314,Rachel Garrison,Distribution,7902.73,Lake Zacharyland
+4732,593,Brett Donaldson,Retail,13361.92,Susantown
+5085,593,Tony Dominguez,Retail,12661.97,Port Samantha
+7243,220,Terri Villa,Distribution,9653.74,South Susanfurt
+3854,571,Douglas Jackson,Retail,36735.17,Jeremychester
+5792,220,Keith Hughes,Retail,9460.8,New Adam
+5194,314,Carolyn Hernandez,Retail,8434.03,Williamton
+2386,220,Ashley Carr,Retail,34588.33,Frenchchester
+5573,551,Melissa Dawson,Retail,27354.0,Williamside
+5279,314,Jason Hopkins,Retail,15990.0,Huangbury
+5859,571,Thomas Allen,Distribution,6146.12,Knappland
+8845,314,Donald Rose,Retail,21872.89,Mcdowellview
+2330,551,Sharon Myers,Retail,46046.06,East Jennifertown
+8289,551,Seth Long,Retail,30504.11,Munozburgh
+3389,593,Jason Lawrence,Distribution,25891.72,West Michaelstad
+8276,593,Joseph Brown,Distribution,17831.18,Lake Brandy
+4425,593,Andrew Arnold,Retail,7793.97,Adamsborough
+4841,571,Brian Kelly,Retail,17087.12,Raymouth
+2623,571,Michelle Miller,Distribution,42556.67,East Eric
+3347,314,Joseph Fuentes,Distribution,9493.18,Jennifermouth
+7604,571,Victor Bond,Distribution,21687.56,Rachelmouth
+7144,314,Evelyn Neal,Distribution,30886.79,Jimmyfurt
+4838,314,John Torres,Distribution,20405.85,Hessberg
+3209,593,Kyle Bush,Retail,27231.02,New Dawn
+6206,220,Michael Mendez,Distribution,5826.67,Port Barryville
+9310,571,Nathan Flores,Distribution,30235.33,Breannaview
+7460,314,Dr. Thomas Hoffman,Retail,17276.56,North Maria
+8959,220,Xavier Ortiz,Retail,23972.24,Ericksonfurt
+4163,551,Chad Price,Distribution,25373.69,South Sarahland
+7276,571,Felicia Hunter,Distribution,41996.29,South Christineview
+8825,220,Krista Long,Distribution,6444.11,East Amber
+3306,571,Lee Rangel,Distribution,15023.27,North Timothyshire
+9807,551,Brandon Olson,Retail,13973.4,Donaldville
+3135,593,Amy Wade,Retail,40956.82,North Michelleside
+7732,220,Katherine Vaughn,Distribution,21174.63,Nancymouth
+9148,314,Aaron Perez,Distribution,44140.58,Jeffreyfort
+4907,220,Katrina Peterson,Retail,27032.59,Ashleybury
+8053,314,James Chang,Retail,17921.39,Sharonfort
+7406,571,Heather Cruz,Retail,12648.25,South Michaelfort
+3873,551,Jacqueline Moon,Distribution,13144.19,Michaelfurt
+8285,220,Wendy Delacruz,Distribution,22488.48,Davidberg
+4818,593,Natalie Spears,Distribution,9446.08,Perezfurt
+9989,314,Jose Whitney,Retail,30204.15,Shawfort
